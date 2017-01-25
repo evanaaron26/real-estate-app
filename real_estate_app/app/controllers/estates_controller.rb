@@ -1,0 +1,2 @@
+class EstatesController < ApplicationController
+end

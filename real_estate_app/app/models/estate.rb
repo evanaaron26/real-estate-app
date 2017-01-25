@@ -1,0 +1,2 @@
+class Estate < ApplicationRecord
+end
